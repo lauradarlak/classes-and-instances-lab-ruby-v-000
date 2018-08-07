@@ -1,11 +1,8 @@
 class Dog
 end
 
-millie = Dog.new
-millie
+fido = Dog.new
 
-india = Dog.new
-india
+snoopy = Dog.new
 
-winston = Dog.new
-winston
+lassie = Dog.new
